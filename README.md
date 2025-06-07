@@ -1,2 +1,31 @@
-# akemi-bot
-A lightweight Discord bot that simulates a friendly "snack mama" for relaxed chat. 「スナックのママ」風の軽い会話Botです。
+# あけみBot
+
+「スナックのママみたいなBotがいたら面白いんじゃないか」──  
+そんな発想から生まれた、Discord用の軽量なBotです。
+
+## 🎯 目的
+
+- Discordサーバー内の空気を少し柔らかくする
+- 無言でもそこに“いる”感じを演出する
+- 雑談・一言レスの練習相手としても機能します
+
+## 💻 技術構成
+
+- Python 3.10+
+- discord.py
+- OpenAI GPT-3.5 (API使用／必要な場合)
+
+## 🔒 セキュリティと透明性
+
+- 管理権限なし（投稿のみ）
+- BAN・削除などの操作権限は付与しません
+- すべてのコードは公開しています
+
+## 👤 作者
+
+- GitHub: [いーじゃん](https://github.com/AgeWbee)
+- 目的：信頼不全社会における「言葉の届き方」を探る小さな文化実験
+
+## 📜 ライセンス
+
+MIT
